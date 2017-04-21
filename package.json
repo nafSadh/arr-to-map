@@ -1,6 +1,6 @@
 {
   "name": "arr-to-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create a map from items of an array, using one property as 'key'",
   "main": "index.js",
   "scripts": {
