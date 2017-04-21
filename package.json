@@ -1,0 +1,24 @@
+{
+  "name": "arr-to-map",
+  "version": "1.0.0",
+  "description": "create a map from items of an array, using one property as 'key'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nafsadh@github.com/nafSadh/arr-to-map.git"
+  },
+  "keywords": [
+    "array",
+    "map",
+    "convert"
+  ],
+  "author": "nafSadh <khan@nafSadh.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/nafSadh/arr-to-map/issues"
+  },
+  "homepage": "https://github.com/nafSadh/arr-to-map#readme"
+}
