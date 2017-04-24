@@ -29,5 +29,5 @@ console.log(fruitsMap);
 # License
 BSD 2-Clause License
 
-Copyright (c) 2017, nafSadh <khan@nafSadh.com>
+Copyright (c) 2017, nafSadh http://nafSadh.com
 All rights reserved.

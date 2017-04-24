@@ -1,6 +1,6 @@
 'use strict';
 /**
- * Created by nafSadh on 2017-04-21
+ * https://github.com/nafSadh/arr-to-map
  */
 
 module.exports = function arrayToMap(array, keyField) {
