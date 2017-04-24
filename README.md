@@ -1,6 +1,10 @@
 # arr-to-map
 Simple function for converting arrays into maps by looking into one 'key' field 
 
+[![npm](https://img.shields.io/npm/v/arr-to-map.svg)](https://www.npmjs.com/package/arr-to-map)
+
+
+
 # Install
 To install run following command
 
@@ -29,5 +33,5 @@ console.log(fruitsMap);
 # License
 BSD 2-Clause License
 
-Copyright (c) 2017, nafSadh http://nafSadh.com
+Copyright © 2017, nafSadh http://nafSadh.com
 All rights reserved.
