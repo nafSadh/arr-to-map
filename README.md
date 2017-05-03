@@ -2,6 +2,7 @@
 Simple function for converting arrays into maps by looking into one 'key' field 
 
 [![npm](https://img.shields.io/npm/v/arr-to-map.svg)](https://www.npmjs.com/package/arr-to-map)
+[![Gitter](https://img.shields.io/gitter/room/nafsadh/lobby.svg)](https://gitter.im/nafSadh/Lobby)
 
 
 
